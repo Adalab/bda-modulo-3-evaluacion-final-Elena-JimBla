@@ -2,19 +2,15 @@
 
 Este proyecto analiza datos de clientes y sus reservas de vuelos de Canadá, aplicando limpieza, visualización y estadística inferencial con Python.
 
+📁 ESTRUCTURA DEL PROYECTO
 
-
-📁 Estructura del Proyecto
-
-Fase 1: Exploración y Limpieza
+🔍 **FASE 1: EXPLORACIÓN Y LIMPIEZA**
 
 Revisión inicial de los datos: valores nulos, atípicos y duplicados.
 
 Ajuste de tipos de datos y formatos para facilitar el análisis.
 
-
-
-Fase 2: Visualización
+📊 **FASE 2: VISUALIZACIÓN**
 
 Distribución mensual de vuelos y tendencias.
 
@@ -26,9 +22,7 @@ Comparación de salario promedio por nivel educativo.
 
 Distribución de clientes por tipo de tarjeta, estado civil y género.
 
-
-
-BONUS: Análisis Estadístico por Nivel Educativo
+🎓 **BONUS: ANÁLISIS ESTADÍSTICO POR NIVEL EDUCATIVO**
 
 Agrupación de datos por educación.
 
@@ -36,24 +30,25 @@ Cálculo de media, mediana y desviación estándar de vuelos reservados.
 
 Pruebas de hipótesis (ANOVA / Kruskal-Wallis) para detectar diferencias significativas entre grupos.
 
-    
-
-📝 Nota: Debido a problemas técnicos con el ordenador, el trabajo se entrega en tres documentos separados, aunque corresponden a un único análisis.
 
 
-🛠️ Tecnologías
+📝 *NOTA*
 
-Python 3.x, Pandas, Matplotlib, Seaborn, SciPy/Statsmodels
+Debido a problemas técnicos con el ordenador, el trabajo se entrega en tres documentos separados, aunque corresponden a un único análisis.
 
+🛠️ *TECNOLOGÍAS*
 
-📌 Requisitos
+Python 3.x, Pandas, Matplotlib, Seaborn, SciPy / Statsmodels
+
+📌 *REQUISITOS*
 
 Librerías instaladas desde requirements.txt.
 
-Archivos de datos en el directorio raíz del proyecto ("Customer Flight Activity.csv" y "Customer Loyalty History.csv").
+Archivos de datos en el directorio raíz del proyecto:
+"Customer Flight Activity.csv" y "Customer Loyalty History.csv".
 
+📬 **CONTACTO**
 
-📬 Contacto
+Consultas a través del repositorio o por correo electrónico: elena.jimbla@gmail.com
 
-Consultas a través del repositorio o correo electrónico elena.jimbla@gmail.com.
 
